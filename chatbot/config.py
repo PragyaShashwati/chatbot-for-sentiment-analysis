@@ -1,2 +1,2 @@
 EMAIL_ADDRESS = "aditiohdar@gmail.com"
-PASSWORD = "barbie21"
+PASSWORD = "your password here"
